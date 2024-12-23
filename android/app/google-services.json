@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173654120508",
+    "project_id": "flutter-restaurant-app-8de5d",
+    "storage_bucket": "flutter-restaurant-app-8de5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173654120508:android:11a29420862a2ec5ff8b39",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrRvh6YrBxV63Lv4u9TM-qCWD2oR-weRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
